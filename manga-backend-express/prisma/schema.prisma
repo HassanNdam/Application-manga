@@ -10,7 +10,7 @@ datasource db {
   url      = "postgresql://postgres:admin@localhost:5432/manga?schema=public"
 }
 
-//Models integration
+//Models integration for the two tables
 
 model anime {
   id            Int     @id @default(autoincrement())
