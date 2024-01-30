@@ -73,6 +73,13 @@ WSGI_APPLICATION = 'manga.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
 DATABASES = {
 'default': {
 'ENGINE': 'django.db.backends.postgresql',
@@ -84,16 +91,16 @@ DATABASES = {
 }
 }
 
-DATABASES = {
-'default': {
-'ENGINE': 'django.db.backends.mysql',
-'NAME': 'manga',
-'USER': 'root',
-'PASSWORD': '',
-'HOST': 'localhost',
-'PORT': '80',
-}
-}
+# DATABASES = {
+# 'default': {
+# 'ENGINE': 'django.db.backends.mysql',
+# 'NAME': 'manga',
+# 'USER': 'root',
+# 'PASSWORD': '',
+# 'HOST': 'localhost',
+# 'PORT': '3306',
+# }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
