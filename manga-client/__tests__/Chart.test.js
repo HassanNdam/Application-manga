@@ -5,4 +5,4 @@ describe('it renders', () => {
   test('Chart component loads', () => {
     render(<Chart />);
   });
-});
+}); 
