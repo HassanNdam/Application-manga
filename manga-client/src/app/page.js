@@ -2,7 +2,7 @@
 import FormPostUpdate from './components/FormPostUpdate/FormPostUpdate';
 import FormDelete from '../app/components/FormDelete/FormDelete';
 import { useFetch } from './hooks/useFetch';
-import { useFetchSWR } from './hooks/useFetchSWR';
+// import { useFetchSWR } from './hooks/useFetchSWR';
 export default function Home() {
   // Uncomment the code below and comment out the "useFetch" code if your want to use SWR for data fetching --> https://swr.vercel.app/docs/with-nextjs
   // const { data, error, isLoading } = useFetchSWR(
