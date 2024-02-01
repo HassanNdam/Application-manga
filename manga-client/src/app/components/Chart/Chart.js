@@ -101,7 +101,7 @@ export default function Chart() {
       </form>
 
       <div className="bg-green-600 p-4 rounded-lg">
-        <h1 className="text-xl text-white">Release Year</h1>
+        <h1 className="text-lg text-white">Release Year</h1>
         {filterAnimeDate === 0 ? (
           <></>
         ) : (
