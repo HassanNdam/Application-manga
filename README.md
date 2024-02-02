@@ -26,3 +26,7 @@ Mise en place d'un Dashboard avec graphiques pour une application manga avec SQL
  
 
 Le backend Express.js & Django tournent sur le port localhost:8000 . Il faudra penser à changer de port pour un serveur ou alors juster lancer un en même temps. 
+
+ **Suire le tutorial:**
+Vous pouvez suivre mon tutorial (Il n'est pas très détaillé met necessite d'être quand même un dev intermédiaire) depuis : 
+https://elastic-jonquil-596.notion.site/Dashboard-app-project-SQL-Node-js-Django-and-Next-js-ae29c2c60c8c4489918f2594908ee3ce
