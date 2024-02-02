@@ -3,7 +3,7 @@ Mise en place d'un Dashboard avec graphiques pour une application manga avec SQL
 
  **Branch**
 
- Aller vers la branch "Dev" pour avoir accès au code source. Find the SQLite database here manga-backend-django/database/manga.db 
+ Aller vers la branch "Dev" pour avoir accès au code source. Retrouvez la Base de données SQLite ici manga-backend-django/database/manga.db 
  
  
 
