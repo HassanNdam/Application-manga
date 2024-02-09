@@ -1,3 +1,6 @@
+
+![App-done](https://github.com/HassanNdam/Application-manga/assets/95439762/9f8917b6-0d9d-4d87-bd44-6312c88a7bc2)
+
 # Application-manga
 Mise en place d'un Dashboard avec graphiques pour une application manga avec SQL, Node.js, Django and Next.js. Deux backend ont été construits (Le 1er avec node & express et le second avec Django - Python ensuite le front end avec Next.js)
 
